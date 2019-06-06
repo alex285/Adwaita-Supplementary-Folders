@@ -1,0 +1,6 @@
+ 
+[Icon Theme]
+Name=Adwaita Colors
+Comment=Additional folder colors for Adwaita icon theme
+
+Inherits=Adwaita,hicolor
